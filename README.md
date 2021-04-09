@@ -1,7 +1,7 @@
 # auto-algorithm-selector
 Auto-run several algorithms &amp; param's on the same problem and highlight best performers
 
-Its easy enough to swap this out to test any other algorithms or parameters as you please. 
+It's easy enough to swap this out to test any other algorithms or parameters as you please. 
 
 I tested the following and declared several different params to test for each. 
 

@@ -14,7 +14,7 @@ from sklearn import model_selection as cv # replaced the above line with this
 from sklearn.svm import SVC
 
 #import the file as a pandas df
-url = "add_url_here"
+url = "https://raw.githubusercontent.com/rkildea1/auto-algorithm-selector/main/student-mat.csv" ##if you change the set, you will need to update any of the column names declared elsewhere in the file
 
 
 stalcDF = pd.read_csv(url,index_col=0)
